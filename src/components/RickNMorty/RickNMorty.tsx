@@ -1,5 +1,5 @@
 import { Button, Container, Page, Typography } from '@toptal/picasso'
-import { useQuery, gql } from '@apollo/client'
+import { useQuery } from '@apollo/client'
 import {
   GET_CHARACTERS,
   GET_EPISODES,
